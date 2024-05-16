@@ -1,5 +1,17 @@
 # QR Code
 
+Simple API to generate qr codes in Go.
+
+## Table of contents
+
+- [Requirements](#requirements)
+- [Environments](#environments)
+
+## Requirements
+
+- Go v1.22.0
+- Docker
+
 ## Environments
 
 - PORT=8000
